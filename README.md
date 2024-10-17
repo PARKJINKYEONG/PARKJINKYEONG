@@ -18,9 +18,18 @@
 |연도|주최|공모전명|소속|프로젝트명|결과|
 |---|---|---|---|---|---|
 |2022|행정안전부, NIA한국지능정보사회진흥원|2022 데이터로 같이, 가치 있게(With Value)! 데이턴십 해커톤 제 5회|6조|시각장애인을 위한 서울시 스마트 음향신호기  최적 입지 선정|장려상|
-|2023|단국대학교|2023년 제3회 EduAI 아이디어 경진대회|PosPic|??|장려상|
 |2023|단국대학교 소프트웨어학과|실무중심산학협력프로젝트|SW|AI 모델을 활용한 동물 품종 식별 및 관리 앱|B+|
-|2023|한국ICT인재개발원|음성 AI 융합 REACT 기반 상황인식 대화형 AI 서비스|TRAVELJOY|사용자 맞춤 여행지 추천 AI|우수상|
+|2023|단국대학교|2023년 제3회 EduAI 아이디어 경진대회|PosPic|??|장려상|
+|2024|한국ICT인재개발원|음성 AI 융합 REACT 기반 상황인식 대화형 AI 서비스|TRAVELJOY|사용자 맞춤 여행지 추천 AI|우수상|
+
+<h3 align="center"> ⚡Personal Project⚡ </h3>
+  
+|연도|주최|공모전명|소속|프로젝트명|결과|
+|---|---|---|---|---|---|
+|2022|한국국제협력단||국민소통센터|이용자의 민원 분류 카테고리 선택 패턴 분석||
+|2023|한국국제협력단||국민소통센터|이용자의 민원 분류 카테고리 개선안 개발||
+
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -76,15 +85,4 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-<br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
